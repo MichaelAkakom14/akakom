@@ -1,0 +1,2 @@
+# akakom
+stmikakakom
